@@ -27,3 +27,4 @@ PHONE_NOT_REGISTER(12, "手机号码未注册"),
 PHONE_ALREADY_BOUND(13, "手机号码已经绑定"),
 INTERNAL_SERVER_ERROR(999, "服务器异常");
 ```
+11
