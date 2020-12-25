@@ -18,6 +18,8 @@ X-AUTH-TOKEN
 | 个人主页banner广告 | user_pofile_banner | 图片 | |
 | 福利广告|welfare|图片||
 | 视频播放定时广告|play_timing|图片||
+| 直播平台广告|live_plat|图片||
+| 直播房间广告|live_room|图片||
 
 ## 数据校验规则
 
